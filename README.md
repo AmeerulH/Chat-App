@@ -71,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Make sure you do npm install before you npm start as there is no node modules
 
+### `npm install react-bootstrap@next bootstrap@5.1.1`
+
 Put this in the index.html file within the head tag:
 
 <link
